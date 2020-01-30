@@ -2,6 +2,8 @@ package ie.gmit;
 
 public class calculator {
 
+    //this method will add two numbers
+
     int firstNum;
     int secondNum;
 
